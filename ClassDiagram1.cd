@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Roguelike.AI.EnemyAI" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAABAAAAAAAAAAAAAABAAAEAAAAACAAAEA=</HashCode>
+      <FileName>Assets\Scripts\AI\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.AI.PlayerAI" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAAAAAAAAAAAAAAAQAAEAAAAACAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\Scripts\AI\PlayerAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Interactions.PlayerInteractor" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAAAAAAAAAABABCAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\AI\PlayerInteractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Interactions.CellClickInteractable" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAQAAAAAAAAAAAEAAAAAAAAAAAEBAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\Interactions\CellClickInteractable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Roguelike.Interactions.Interactor" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAQAAAAFAAAQAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Interactions\Interactor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Roguelike.Interactions.LivingEntity" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\LivingEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Buffs.Buff" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAABAAAAEAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buffs\Buff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Buffs.BuffEffector" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAgAAAAAAACAAAAAAQAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Buffs\BuffEffector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Buffs.HealthRegeneration" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAgAAAAAEAgAAAAAAAAAAACAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buffs\Buffs\HealthRegeneration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Buffs.Hunger" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACAEAAAAAAACAAAAACAAAEAEAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Buffs\Buffs\Hunger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Buffs.Paralisys" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buffs\Buffs\Paralisys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.CellMapping.Cell" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgADAEAACAAAAAggAAAABAAAAAAAAAAAQAAAACgAAAA=</HashCode>
+      <FileName>Assets\Scripts\CellMapping\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.CellMapping.CellElement" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAFAAAAACAgAAAAgABAAAgAABAAAAAAQAAGACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CellMapping\CellElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.CellMapping.CellMap" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAQAIAAhAAAAAgCAAggAUAACAABAAAAAACAAASEUA=</HashCode>
+      <FileName>Assets\Scripts\CellMapping\CellMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.CellMapping.CellSpawner" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CellMapping\CellSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.CellMapping.RandomPositionOnChangeCell" Collapsed="true">
+    <Position X="20.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAACAACAA=</HashCode>
+      <FileName>Assets\Scripts\CellMapping\RandomPositionOnChangeCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Combat.Fighter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIQYAAAAABAAIAAAAAAACAAEAAAAAAAAAAAAAGI=</HashCode>
+      <FileName>Assets\Scripts\Combat\Fighter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Roguelike.Combat.Health" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAACQACAAAACgAAAAhIAAAAAAAAAAAAABDBAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Combat\Health.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Roguelike.Combat.Weapon" Collapsed="true">
+    <Position X="13.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Combat\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Control.ClickToGetInteractable" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAQAAAAAAAAAAEAAAAAAAEAAAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Control\ClickToGetInteractable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Control.MouseControl" Collapsed="true">
+    <Position X="22.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAABAIAAAgAAACAAABAAAAAAgAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Control\MouseControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Control.PlayerControlState" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Control\PlayerControlState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Fog.DarkFogSystem" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABBAAAAAAAAAAAAAAAAAAAAAAAAAABAQICAgAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Fog\DarkFogSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Fog.InvisibleUnderLightFog" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAACAAAAAACEAAAQAAAAAACAAAIAAICAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Fog\InvisibleUnderLightFog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Fog.InvisibleUnderLightFogHashSet" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fog\InvisibleUnderLightFogHashSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Fog.LightFogSystem" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABBAAAAAAAAAAEAAAAQAAAAAgCAAAAAAICAgAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Fog\LightFogSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Fog.VisibleCellHashSet" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fog\VisibleCellHashSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.DropItem" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAgAAAAAAAAAQAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\DropItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.Inventory" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABEgAAAoAAAAAAgAAAAAEAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.InventoryWrapper" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAIAAAAAAAAAAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventoryWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.Item" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.ItemHolder" Collapsed="true">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAQAAAEAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\ItemHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.PotionItem" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\PotionItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Items.WeaponItem" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\WeaponItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Level.DownStairs" Collapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level\DownStairs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.LevelGeneration.LevelGenerator" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAJgAAECAEAAAAAAAEAAAAAAAAACAAAAKAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelGeneration\LevelGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.LevelGeneration.TerrainGenerator" Collapsed="true">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQEAAAAAAAAQAAAIAAAAAABAgAAAAAAkAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelGeneration\TerrainGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Movement.AttackMovement" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAACIAAAYAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Movement\AttackMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Movement.CameraFollow" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgAAAAAAEAAQQIBAAAAACEAAgAAACQAAgAEA=</HashCode>
+      <FileName>Assets\Scripts\Movement\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Movement.SmoothMovement" Collapsed="true">
+    <Position X="22.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAACAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\Movement\SmoothMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Movement.SpriteMovement" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAKAAAAAAAAAAAAAAAAAAIEAEAAAEAAAQAAEA=</HashCode>
+      <FileName>Assets\Scripts\Movement\SpriteMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Movement.Walkable" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Movement\Walkable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Roguelike.Movement.Walker" Collapsed="true">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAYAAAABAAAAAAAAAAAQAAAAIAEAAACAAAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\Movement\Walker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.PathFinding.PathFindingUtilities" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAIAAAAAAAAAAAAAAAEAQAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PathFinding\PathFindingUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Sight.BlockSightOfView" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Sight\BlockSightOfView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Sight.ExplorationMemory" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAAEA=</HashCode>
+      <FileName>Assets\Scripts\Sight\ExplorationMemory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Sight.FieldOfView" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAICCAAAAAAAAAAAIAgEAAAAAAAAAIAAgAACEA=</HashCode>
+      <FileName>Assets\Scripts\Sight\FieldOfView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Stats.BaseStats" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Stats\BaseStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Stats.CharacterClass" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\CharacterClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Stats.StatDatabase" Collapsed="true">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\StatDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Turn.TurnEntity" Collapsed="true">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAAAAAAACAAgEAAAAAAAAAAQAYAQAABAAACEA=</HashCode>
+      <FileName>Assets\Scripts\TurnBased\TurnEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Turn.TurnEntityList" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TurnBased\TurnEntityList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.Turn.TurnSystem" Collapsed="true">
+    <Position X="20.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAACAAAgAAAAAAAAAAAgAAAAQCAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TurnBased\TurnSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.UI.HealthBarOnTop" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAAAQAABAAABAQAAAAAAAICAAAAAAAAAAAAAQAEg=</HashCode>
+      <FileName>Assets\Scripts\UI\HealthBarOnTop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.UI.InventorySlotUI" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAAAAAAAAAAAAAAAAEAAAAAACAACAAgBBAUA=</HashCode>
+      <FileName>Assets\Scripts\UI\InventorySlotUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roguelike.UI.InventoryUI" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBABAAAABQIAAAAQAAAAAAAAAAEAAAAAACAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\InventoryUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FPSDisplay" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utilities\FPSDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Preallocation" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utilities\Preallocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PriorityQueue&lt;T&gt;" Collapsed="true">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAABAAAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utilities\PriorityQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuntimeHashSet&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utilities\RuntimeHashSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuntimeList&lt;T&gt;" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Utilities\RuntimeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Totoo.SOResettor" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\Utilities\SOResettor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Roguelike.Interactions.IClickable" Collapsed="true">
+    <Position X="13.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactions\IClickable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Roguelike.Sight.ICanBeSeenThrough" Collapsed="true">
+    <Position X="12" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Sight\ICanBeSeenThrough.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Roguelike.Stats.IModifyStat" Collapsed="true">
+    <Position X="17.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\IModifyStat.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Roguelike.Turn.IHandleTurn" Collapsed="true">
+    <Position X="15.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TurnBased\IHandleTurn.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Roguelike.Buffs.BuffType" Collapsed="true">
+    <Position X="12" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAMAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buffs\BuffType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Roguelike.CellMapping.CellElementTag" Collapsed="true">
+    <Position X="13.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAAEAAAABAAAAAAAAAAAAAABAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\CellMapping\CellElementTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Roguelike.Stats.Stat" Collapsed="true">
+    <Position X="19" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAABAIAAAAAAAAAAAgEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\Stat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LayerBit" Collapsed="true">
+    <Position X="15.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAQAAAQIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utilities\Layer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LayerDecimal" Collapsed="true">
+    <Position X="17.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAQAAAQIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utilities\Layer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

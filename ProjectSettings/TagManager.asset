@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - NPCs
+  - Collectibles
+  - Interactables
+  - BlockSightOfView
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Terrain
+    uniqueID: 3751547475
+    locked: 0
+  - name: Interactables
+    uniqueID: 557817555
+    locked: 0
+  - name: Collectibles
+    uniqueID: 1342564283
+    locked: 0
+  - name: Entities
+    uniqueID: 1598435535
+    locked: 0
+  - name: Player
+    uniqueID: 3653194967
+    locked: 0
+  - name: LightFog
+    uniqueID: 2727565915
+    locked: 0
+  - name: DarkFog
+    uniqueID: 790982801
+    locked: 0
+  - name: UI
+    uniqueID: 801925735
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

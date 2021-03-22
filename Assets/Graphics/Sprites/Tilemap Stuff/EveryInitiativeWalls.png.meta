@@ -1,0 +1,1361 @@
+fileFormatVersion: 2
+guid: a511a8e633424604587ed5b46e8f2af1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7679866692638594536
+    second: EveryInitiativeWalls_0
+  - first:
+      213: 1244022054628702174
+    second: EveryInitiativeWalls_1
+  - first:
+      213: 1441662200852151960
+    second: EveryInitiativeWalls_2
+  - first:
+      213: 4583915406563472043
+    second: EveryInitiativeWalls_3
+  - first:
+      213: -8342251874240698737
+    second: EveryInitiativeWalls_4
+  - first:
+      213: -2667930280659234404
+    second: EveryInitiativeWalls_5
+  - first:
+      213: 1298802840210960584
+    second: EveryInitiativeWalls_6
+  - first:
+      213: 4480579386126552907
+    second: EveryInitiativeWalls_7
+  - first:
+      213: -1308110104755108870
+    second: EveryInitiativeWalls_8
+  - first:
+      213: -1251864495938664318
+    second: EveryInitiativeWalls_9
+  - first:
+      213: -4061585228235587347
+    second: EveryInitiativeWalls_10
+  - first:
+      213: -1044138250939439059
+    second: EveryInitiativeWalls_11
+  - first:
+      213: 8617794063988935927
+    second: EveryInitiativeWalls_12
+  - first:
+      213: -2414865475966144775
+    second: EveryInitiativeWalls_13
+  - first:
+      213: -7915083042782962460
+    second: EveryInitiativeWalls_14
+  - first:
+      213: 5931021501234083735
+    second: EveryInitiativeWalls_15
+  - first:
+      213: 1984651460672330228
+    second: EveryInitiativeWalls_16
+  - first:
+      213: -7827085477866791995
+    second: EveryInitiativeWalls_17
+  - first:
+      213: -2606958329470307199
+    second: EveryInitiativeWalls_18
+  - first:
+      213: -9183229672046854137
+    second: EveryInitiativeWalls_19
+  - first:
+      213: -3616329526276715876
+    second: EveryInitiativeWalls_20
+  - first:
+      213: 2083855271422113272
+    second: EveryInitiativeWalls_21
+  - first:
+      213: -1257617707556638300
+    second: EveryInitiativeWalls_22
+  - first:
+      213: 6857107214255726465
+    second: EveryInitiativeWalls_23
+  - first:
+      213: -2742291979455091063
+    second: EveryInitiativeWalls_24
+  - first:
+      213: 1786633298807501543
+    second: EveryInitiativeWalls_25
+  - first:
+      213: -1866185014381810248
+    second: EveryInitiativeWalls_26
+  - first:
+      213: 8273175493707854773
+    second: EveryInitiativeWalls_27
+  - first:
+      213: 3308106963501037192
+    second: EveryInitiativeWalls_28
+  - first:
+      213: -7735535804512934324
+    second: EveryInitiativeWalls_29
+  - first:
+      213: -855143515187809083
+    second: EveryInitiativeWalls_30
+  - first:
+      213: 690460957346200964
+    second: EveryInitiativeWalls_31
+  - first:
+      213: -8828343048574504938
+    second: EveryInitiativeWalls_32
+  - first:
+      213: -6960460623434217668
+    second: EveryInitiativeWalls_33
+  - first:
+      213: 8255906156548065882
+    second: EveryInitiativeWalls_34
+  - first:
+      213: 2828131693549673699
+    second: EveryInitiativeWalls_35
+  - first:
+      213: 1871342178959612026
+    second: EveryInitiativeWalls_36
+  - first:
+      213: 6399334455108418210
+    second: EveryInitiativeWalls_37
+  - first:
+      213: -6095152500733267778
+    second: EveryInitiativeWalls_38
+  - first:
+      213: -8246690443051083612
+    second: EveryInitiativeWalls_0
+  - first:
+      213: 8425167150396591634
+    second: EveryInitiativeWalls_1
+  - first:
+      213: -4635309987978148553
+    second: EveryInitiativeWalls_2
+  - first:
+      213: -5998034245003681041
+    second: EveryInitiativeWalls_3
+  - first:
+      213: -7275823867023127411
+    second: EveryInitiativeWalls_4
+  - first:
+      213: -4878119910155347511
+    second: EveryInitiativeWalls_5
+  - first:
+      213: -1790907670852124565
+    second: EveryInitiativeWalls_6
+  - first:
+      213: -181877791268816531
+    second: EveryInitiativeWalls_7
+  - first:
+      213: 8994192733798640686
+    second: EveryInitiativeWalls_8
+  - first:
+      213: 8054667325328310165
+    second: EveryInitiativeWalls_9
+  - first:
+      213: -2567553389640819516
+    second: EveryInitiativeWalls_10
+  - first:
+      213: 1233307819045022290
+    second: EveryInitiativeWalls_11
+  - first:
+      213: -1197382186759755235
+    second: EveryInitiativeWalls_12
+  - first:
+      213: 5494527552721944197
+    second: EveryInitiativeWalls_13
+  - first:
+      213: -7970974903999914685
+    second: EveryInitiativeWalls_14
+  - first:
+      213: -4956371258623469321
+    second: EveryInitiativeWalls_15
+  - first:
+      213: -6687154521793406235
+    second: EveryInitiativeWalls_16
+  - first:
+      213: -4661868375324420521
+    second: EveryInitiativeWalls_17
+  - first:
+      213: 4233131876603197936
+    second: EveryInitiativeWalls_18
+  - first:
+      213: -1048622237636608983
+    second: EveryInitiativeWalls_19
+  - first:
+      213: -9209288638318612732
+    second: EveryInitiativeWalls_20
+  - first:
+      213: -7075401737951691510
+    second: EveryInitiativeWalls_21
+  - first:
+      213: -7532425325025228353
+    second: EveryInitiativeWalls_22
+  - first:
+      213: -4085639664490479980
+    second: EveryInitiativeWalls_23
+  - first:
+      213: 4479916772485646138
+    second: EveryInitiativeWalls_24
+  - first:
+      213: -7830007842410355134
+    second: EveryInitiativeWalls_25
+  - first:
+      213: -4502699194221034601
+    second: EveryInitiativeWalls_26
+  - first:
+      213: 1747469009555896073
+    second: EveryInitiativeWalls_27
+  - first:
+      213: 364787461956476441
+    second: EveryInitiativeWalls_28
+  - first:
+      213: 7355635162276568582
+    second: EveryInitiativeWalls_29
+  - first:
+      213: 9026703057282754328
+    second: EveryInitiativeWalls_30
+  - first:
+      213: 137210457376799053
+    second: EveryInitiativeWalls_31
+  - first:
+      213: 2025566255830514354
+    second: EveryInitiativeWalls_32
+  - first:
+      213: 5296308966339914266
+    second: EveryInitiativeWalls_33
+  - first:
+      213: -675464896625549851
+    second: EveryInitiativeWalls_34
+  - first:
+      213: -4235612718331122969
+    second: EveryInitiativeWalls_35
+  - first:
+      213: 3412735383195210418
+    second: EveryInitiativeWalls_36
+  - first:
+      213: -2738679223047449433
+    second: EveryInitiativeWalls_37
+  - first:
+      213: 3483950043822871647
+    second: EveryInitiativeWalls_38
+  - first:
+      213: 2760774649816619965
+    second: EveryInitiativeWalls_39
+  - first:
+      213: 2950071748361914105
+    second: EveryInitiativeWalls_40
+  - first:
+      213: 1383348561196132811
+    second: EveryInitiativeWalls_41
+  - first:
+      213: -8738353688789622855
+    second: EveryInitiativeWalls_42
+  - first:
+      213: 4268075619962298642
+    second: EveryInitiativeWalls_43
+  - first:
+      213: -1654643418292092055
+    second: EveryInitiativeWalls_44
+  - first:
+      213: -3929273489363033139
+    second: EveryInitiativeWalls_45
+  - first:
+      213: -6645041614308720433
+    second: EveryInitiativeWalls_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d4512cbedd8d80800000000000000
+      internalID: -8246690443051083612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed735e2b777a34110800000000000000
+      internalID: 1244022054628702174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e76e72220d10410800000000000000
+      internalID: 1441662200852151960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f7a096c65d9f30800000000000000
+      internalID: 4583915406563472043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86eb099e1e5a3c80800000000000000
+      internalID: -8342251874240698737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915cc78b8b99fad0800000000000000
+      internalID: -2667930280659234404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0fa044d46460210800000000000000
+      internalID: 1298802840210960584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc20a66373e2e30800000000000000
+      internalID: 4480579386126552907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af309f65ac8a8dde0800000000000000
+      internalID: -1308110104755108870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28807a4afdb70aee0800000000000000
+      internalID: -1251864495938664318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04b0e01c952a7c0800000000000000
+      internalID: -4061585228235587347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286b58fac97281f0800000000000000
+      internalID: -1044138250939439059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcc78bca0e889770800000000000000
+      internalID: 8617794063988935927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feeea4e4acac7ed0800000000000000
+      internalID: -2414865475966144775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec143398e9f72290800000000000000
+      internalID: -7915083042782962460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f248a1a83f4250800000000000000
+      internalID: 5931021501234083735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f995540df5ea8b10800000000000000
+      internalID: 1984651460672330228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb91214a3b906390800000000000000
+      internalID: -7827085477866791995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1843dab263932dbd0800000000000000
+      internalID: -2606958329470307199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70002d2a44d9e8080800000000000000
+      internalID: -9183229672046854137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a058bb47730ddc0800000000000000
+      internalID: -3616329526276715876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b07024575bec10800000000000000
+      internalID: 2083855271422113272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a178ddab5b0c8ee0800000000000000
+      internalID: -1257617707556638300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1b7c4ea6592f50800000000000000
+      internalID: 6857107214255726465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e2d2659fb61f9d0800000000000000
+      internalID: -2742291979455091063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23e4fe4856bc810800000000000000
+      internalID: 1786633298807501543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6d9ced9af916e0800000000000000
+      internalID: -1866185014381810248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b37ce2474930d270800000000000000
+      internalID: 8273175493707854773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b97691c1c8ed20800000000000000
+      internalID: 3308106963501037192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e0b0ab2bd5a490800000000000000
+      internalID: -7735535804512934324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c47041f08be124f0800000000000000
+      internalID: -855143515187809083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d75ed1592059900800000000000000
+      internalID: 690460957346200964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107d6a95cc6b7580800000000000000
+      internalID: -8828343048574504938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370c1be0f9776f90800000000000000
+      internalID: -6960460623434217668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a020068eed29270800000000000000
+      internalID: 8255906156548065882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5d0c8aca8f3720800000000000000
+      internalID: 2828131693549673699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d7160cc758f910800000000000000
+      internalID: 1871342178959612026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab7a328c00fc850800000000000000
+      internalID: 6399334455108418210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b5f5181ba96ba0800000000000000
+      internalID: -6095152500733267778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1933baed305620800000000000000
+      internalID: 2760774649816619965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6070fff92c0f820800000000000000
+      internalID: 2950071748361914105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9a4a6ef24a23310800000000000000
+      internalID: 1383348561196132811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf58f92e912bb680800000000000000
+      internalID: -8738353688789622855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ab52c9204b3b30800000000000000
+      internalID: 4268075619962298642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96303c6e3968909e0800000000000000
+      internalID: -1654643418292092055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32821649a6879c0800000000000000
+      internalID: -3929273489363033139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryInitiativeWalls_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c075dbd118c3a0800000000000000
+      internalID: -6645041614308720433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
